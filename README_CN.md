@@ -55,24 +55,9 @@ python scripts/batch_remove_watermarks.py /path/to/images --position bottomright
 
 ## 📸 示例展示
 
-### 示例 1：去除"AI生成"水印
 
-**处理前：**
 
-![示例 1 - 带水印](examples/example1_with_watermark.jpg)
-
-**处理后：**
-
-![示例 1 - 已清理](examples/example1_clean.jpg)
-
-**命令：**
-```bash
-python scripts/remove_watermark.py example1.jpg --position topleft --size medium --method telea --radius 15 --padding 30
-```
-
----
-
-### 示例 2：去除多个水印
+### 示例 1：去除多个水印
 
 **处理前：**
 
