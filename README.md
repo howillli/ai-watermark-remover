@@ -6,6 +6,8 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-green.svg)](https://opencv.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+English | [简体中文](README_CN.md)
+
 ## ✨ Features
 
 - 🎯 **Automatic Detection**: Detect common watermark positions (corners, center)
