@@ -36,9 +36,13 @@ env/
 .DS_Store
 Thumbs.db
 
-# Test files
+# Test files (exclude examples directory)
 test_*.jpg
 test_*.png
+temp/
+
+# Ignore clean images except in examples folder
 *_clean.jpg
 *_clean.png
-temp/
+!examples/*_clean.jpg
+!examples/*_clean.png
