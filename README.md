@@ -53,20 +53,6 @@ python scripts/batch_remove_watermarks.py /path/to/images --position bottomright
 
 ## 📸 Examples
 
-### Example 1: Removing "AI Generated" Watermark
-
-**Before:**
-
-![Example 1 - With Watermark](examples/example1_with_watermark.jpg)
-
-**After:**
-
-![Example 1 - Clean](examples/example1_clean.jpg)
-
-**Command:**
-```bash
-python scripts/remove_watermark.py example1.jpg --position topleft --size medium --method telea --radius 15 --padding 30
-```
 
 ---
 
