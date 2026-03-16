@@ -58,7 +58,7 @@ python scripts/batch_remove_watermarks.py /path/to/images --position bottomright
 
 ---
 
-### Example 2: Removing Multiple Watermarks
+### Example 1: Removing Multiple Watermarks
 
 **Before:**
 
